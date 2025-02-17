@@ -10,7 +10,7 @@ menu:
 
 {{<image float="right" width="11em" frame="true" caption="Portrait of me by Michiel Jansz. van Mierevelt" src="img/hugo-portrait.jpg" >}}
 
-Hello, I'm Hugo Grotius and this is my personal page. I'm a Dutch lawyer and
+Hello, I'm Qingchao Zeng and this is my personal page. I'm now a post-doctoral fellow at the University of Fribourg,  and
 diplomat with experience from academia and government, having published a large
 number of books on international law, sometimes even being called the "father"
 of this field of study. I have experience working as a diplomat from serving as
